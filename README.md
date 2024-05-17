@@ -5,7 +5,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/azainabi?UM6P=on" alt="azainabi's 42 stats" /></a>
 </p>
 
-- 🔭 I’m currently working on **Push_swap**
+- 🔭 I’m currently working on **Minishell**
 
 - 🌱 I’m currently learning **Sorting Algorithms using stacks**
 
