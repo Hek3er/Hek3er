@@ -3,8 +3,10 @@
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/azainabi?UM6P=on" alt="azainabi's 42 stats" /></a>
 </p>
+
 - 🔭 I'm currently working on **Cube3d**
 - 🌱 I'm currently learning **Raycasting technology**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
